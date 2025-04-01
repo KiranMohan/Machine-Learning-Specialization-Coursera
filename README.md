@@ -1,4 +1,4 @@
-# Mach
+# Machine
 -- 1. Create the profiles table
 CREATE TABLE profiles (
   id UUID PRIMARY KEY REFERENCES auth.users(id) ON DELETE CASCADE,
