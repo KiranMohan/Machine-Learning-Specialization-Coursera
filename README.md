@@ -1,4 +1,4 @@
-# Machine Learning Specia
+# Machine Learning Speci
 -- 1. Create the profiles table
 CREATE TABLE profiles (
   id UUID PRIMARY KEY REFERENCES auth.users(id) ON DELETE CASCADE,
