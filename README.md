@@ -1,4 +1,4 @@
-# mmmmm
+# mmm
 
 -- 1. Create the profiles table
 CREATE TABLE profiles (
