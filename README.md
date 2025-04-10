@@ -1,4 +1,4 @@
-# machine learn
+# machine lear
 
 
 -- 1. Create the profiles table
