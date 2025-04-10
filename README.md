@@ -1,4 +1,4 @@
-# machine lear
+# machine lea
 
 
 -- 1. Create the profiles table
