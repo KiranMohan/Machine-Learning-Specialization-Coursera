@@ -1,4 +1,4 @@
-# bbb
+# bb
 
 
 -- 1. Create the profiles table
