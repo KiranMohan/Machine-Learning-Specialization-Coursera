@@ -1,4 +1,4 @@
-# bmmmn
+# bmmm
 
 
 -- 1. Create the profiles table
