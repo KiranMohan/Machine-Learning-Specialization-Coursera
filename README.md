@@ -1,4 +1,4 @@
-#machine learnng
+#machine learnn
 
 
 -- 1. Create the profiles table
