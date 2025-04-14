@@ -1,4 +1,4 @@
-#machin
+#machi
 
 
 -- 1. Create the profiles table
