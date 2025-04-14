@@ -1,4 +1,4 @@
-#machine lea
+#machine le
 
 
 -- 1. Create the profiles table
