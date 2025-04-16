@@ -1,4 +1,4 @@
-# machine lear
+# machine lea
 
 
 
