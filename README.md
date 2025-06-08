@@ -1,4 +1,4 @@
-bb...nnbbbbn
+bb...nnbbbb
 
 
 
