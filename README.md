@@ -1,4 +1,4 @@
-bbn
+bb
 
 main
 
