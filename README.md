@@ -1,4 +1,4 @@
-ccc
+cc
 
 main
 
