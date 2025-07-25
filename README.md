@@ -1,4 +1,4 @@
-sssssssrr
+sssssssr
 
 main
 
