@@ -1,5 +1,5 @@
 vghuyk<<<<<<<zzzz
-zzaaaaaaaaa<<<<<<<<<<<<<<<<<<<<<<<Create the profiles tabl
+zzaaaaaaaaa<<<<<<<<<<<<<<<<<<<<<<Create the profiles tabl
 CREATE TABLE profiles (
   id UUID PRIMARY KEY REFERENCES auth.users(id) ON DELETE CASCADE,
   name TEXT NOT NULL,
