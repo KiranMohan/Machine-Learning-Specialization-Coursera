@@ -1,4 +1,4 @@
-ccccccn n nnnmdddddccvcbvghuyk<<<<<<<zzsssss
+sccccccn n nnnmdddddccvcbvghuyk<<<<<<<zzsssss
 zzaaaaaaaaa<<<<<<<<<<<<<<<<<<<<<<Create the profiles tabl
 CREATE TABLE profiles (
   id UUID PRIMARY KEY REFERENCES auth.users(id) ON DELETE CASCADE,
