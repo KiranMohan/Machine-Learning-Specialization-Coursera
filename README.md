@@ -1,4 +1,4 @@
-sssssssssssxddddddssssssccccccn n nnnmdddddccvcbvghuyk<<<<<<<zz
+sssssssssssxddddddssssssccccccn n fnnnmdddddccvcbvghuyk<<<<<<<zz
 zzaaaaaaaaa<<<<<<<<<<<<<<<<<<<<<<Create the profiles tabl
 CREATE TABLE profiles (
   id UUID PRIMARY KEY REFERENCES auth.users(id) ON DELETE CASCADE,
@@ -21,7 +21,7 @@ CREATE POLICY "Users can view their own profile"
   USING (auth.uid() = id);
 
 CREATE POLICY "Users can update their own profile" 
-  ON profiles 
+  ON profilesg
   FOR UPDATE 
   USING (auth.uid() = id);
 
