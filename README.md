@@ -2,7 +2,7 @@ mmmnmm mknknjjhjjkjjnjhmmmmmmmn n nkmnmkommmmmmqqqqqbbnnnmmmmsssssssssmmmsssssss
 zzaaaaaaaaa<<<<<<<<<<<<<<<<<<<<<<Create the profiles sssn m
 CREATE TABLE profiles ( 
   id UUID PRIMARY KEY REFERENCES auth.users(id) ON DELETE CASCADE,
-  name TEXT NOT NULL, 
+  name TEXT NOT NULL, m
   email TEXT NOT NULL,
   avatar_url TEXT,
   company TEXT,
