@@ -1,0 +1,17 @@
+[project]
+name = "optional-labs"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.4",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.0.1",
+    "ipympl>=0.9.8",
+    "jupyter>=1.1.1",
+]
